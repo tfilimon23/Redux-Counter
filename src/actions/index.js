@@ -21,6 +21,6 @@ export const decrement = count => {
   // Fill in this function
   return {
     type: DECREMENT,
-    payload: count -1 
+    payload: count - 1 
   }
 };
